@@ -6,13 +6,13 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['917605902011', 'GURU', true],
+global.owner = [AERO 2
+  ['917605902011', '₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █', true],
   ['6281255369012', 'Ash', true], 
   [''] 
-] //Number of owners
+] //+256742794527
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "" //+256742794527
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -26,7 +26,7 @@ global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'https://https://www.youtube.com/@user-henrygokugt
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
   lol: 'https://api.lolhuman.xyz',
